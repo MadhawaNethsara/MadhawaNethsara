@@ -4,6 +4,8 @@
 <h3 align="center">Passionate Developer | Exploring the Boundless World of Technology</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=MadhawaNethsara&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
 
+
+
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
@@ -20,7 +22,7 @@
 </td>
 <td width="50%" align="center">
 
-  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+  ![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
 
   
   </td>
